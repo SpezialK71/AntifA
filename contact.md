@@ -1,3 +1,3 @@
 give stars to <code>ALL</code> of my repositories.
-then <code>i</code> will contact you with the info
+then <code>i</code> will **contact** you<br> with the info
 needed to **contact** /AntifA\ HQ Command Center...
